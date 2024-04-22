@@ -1,0 +1,51 @@
+state,list_provided,list_url,effective_date,date_provided,list_type,vendor
+Alabama,FALSE,-,-,-,-,-
+Alaska,TRUE,https://www.documentcloud.org/documents/24444243-alaska_doc_combined_commissary_lists,October 2023,"October 26, 2023",Facility/Unit Lists,State-run
+Arizona,TRUE,https://www.documentcloud.org/documents/24444242-adc_combined_commissary_lists,February 2023,"August 23, 2023",Statewide List,Keefe Commissary
+Arkansas,TRUE,https://www.documentcloud.org/documents/24444241-ar_doc_combined_commissary_lists,July 2023,"July 29, 2023",Facility/Unit Lists,State-run
+California,TRUE,https://www.documentcloud.org/documents/24443391-cdcr_combined_commissary_lists,February 2024,"March 1, 2024",Facility/Unit Lists,State-run
+Colorado,TRUE,https://www.documentcloud.org/documents/24444240-co_doc_commissary_list,July 2023,"July 25, 2023",Statewide List,Compass Group (Vending Services)
+Connecticut,TRUE,https://www.documentcloud.org/documents/24444239-connecticut_doc_combined_commissary_lists,August 2023,"August 21, 2023",Statewide List,State-run
+Delaware,TRUE,https://www.documentcloud.org/documents/24522485-delaware_doc_combined_commissary_lists,March 2024,"March 28, 2024",Facility/Unit Lists,Keefe Commissary
+Florida,TRUE,https://www.documentcloud.org/documents/24444312-fl_doc_combined_commissary_lists,September 2023,"February 27, 2024",Gender/Housing Type Lists,Keefe Commissary
+Georgia,TRUE,https://www.documentcloud.org/documents/24444238-ga_doc_combined_commissary_lists,April 2023,"July 26, 2023",Statewide List,"Georgia Commissary Suppliers, LLC"
+Hawaii,TRUE,https://www.documentcloud.org/documents/24522572-hawaii_doc_combined_commissary_lists,August 2023,"March 19, 2024",Facility/Unit Lists,State-run
+Idaho,TRUE,https://www.documentcloud.org/documents/24522705-idaho_doc_combined_commissary_lists,August 2023,"August 9, 2023",Statewide List,Keefe Commissary
+Illinois,TRUE,https://www.documentcloud.org/documents/24444236-il_doc_commissary_list,August 2023,"August 7, 2023",Statewide List,Keefe Commissary
+Indiana,TRUE,https://www.documentcloud.org/documents/24444235-indiana_doc_commissary_list,October 2023,"November 21, 2023",Statewide List,State-run
+Iowa,TRUE,https://www.documentcloud.org/documents/24444313-iowa_doc_commissary_list,March 2023,"September 28, 2023",Statewide List,State-run
+Kansas,TRUE,https://www.documentcloud.org/documents/24550279-kansas_doc_combined_commissary_lists,October 2023,"April 16, 2024",Facility/Unit Lists,Keefe Commissary
+Kentucky,TRUE,https://www.documentcloud.org/documents/24550284-kentucky_doc_commissary_list,January 2024,"April 14, 2024",Gender/Housing Type Lists,Union Supply Group
+Louisiana,FALSE,-,-,-,-,-
+Maine,TRUE,https://www.documentcloud.org/documents/24444232-maine_doc_combined_commissary_lists,July 2023,"August 1, 2023",Facility/Unit Lists,Keefe Commissary
+Maryland,TRUE,https://www.documentcloud.org/documents/24522629-maryland_doc_combined_commissary_lists,November 2023,"March 27, 2024",Statewide List,Keefe Commissary
+Massachusetts,TRUE,https://www.documentcloud.org/documents/24444315-ma_doc_commissary_master_list,October 2023,"November 1, 2023",Statewide List,Keefe Commissary
+Michigan,TRUE,https://www.documentcloud.org/documents/24444231-michigan_doc_commissary_list,January 2024,"January 24, 2024",Statewide List,Keefe Commissary
+Minnesota,TRUE,https://www.documentcloud.org/documents/24444230-minnesota_doc_commissary_list,January 2022,"August 2, 2023",Statewide List,State-run
+Mississippi,TRUE,https://www.documentcloud.org/documents/24549784-misssippi_doc_commissary_list,April 2024,"April 9, 2024",Statewide List,Premier Supply Link
+Missouri,TRUE,https://www.documentcloud.org/documents/24444229-missouri_doc_commissary_list,September 2023,"October 6, 2023",Statewide List,State-run
+Montana,TRUE,https://www.documentcloud.org/documents/24444228-montana_doc_combined_commissary_lists,June 2023,"October 12, 2023",Gender/Housing Type Lists,State-run
+Nebraska,TRUE,https://www.documentcloud.org/documents/24444227-nebraska_doc_commissary_list,June 2023,"August 1, 2023",Statewide List,State-run
+Nevada,TRUE,https://www.documentcloud.org/documents/24550291-nevada_doc_commissary_list,January 2024,"March 6, 2024",Statewide List,Keefe Commissary
+New Hampshire,TRUE,https://www.documentcloud.org/documents/24444225-nh_doc_commissary_list,July 2023,"August 4, 2023",Statewide List,Union Supply Group
+New Jersey,TRUE,https://www.documentcloud.org/documents/24444224-nj_doc_combined_commissary_lists,June 2023,"July 26, 2023",Gender/Housing Type Lists,Keefe Commissary
+New Mexico,TRUE,https://www.documentcloud.org/documents/24550285-nm_doc_commissary_list,September 2023,"November 1, 2023",Statewide List,Union Supply Group
+New York,FALSE,-,-,-,-,-
+North Carolina,TRUE,https://www.documentcloud.org/documents/24444222-nc_doc_combined_commissary_lists,January 2024,"January 12, 2024",Facility/Unit Lists,State-run
+North Dakota,TRUE,https://www.documentcloud.org/documents/24444221-nd_doc_commissary_list,October 2023,"October 20, 2023",Statewide List,State-run
+Ohio,TRUE,https://www.documentcloud.org/documents/24444220-ohio_doc_commissary_list,July 2023,"October 10, 2023",Statewide List,State-run
+Oklahoma,TRUE,https://www.documentcloud.org/documents/24444219-ok_doc_commissary_list,October 2023,"October 12, 2023",Statewide List,State-run
+Oregon,TRUE,https://www.documentcloud.org/documents/24550287-oregon_doc_combined_commissary_lists,December 2023,"April 8, 2024",Gender/Housing Type Lists,Regal Greetings
+Pennsylvania,TRUE,https://www.documentcloud.org/documents/24522734-pa_doc_combined_commissary_lists,February 2024,"March 28, 2024",Gender/Housing Type Lists,Pennsylvania Correctional Industries
+Rhode Island,TRUE,https://www.documentcloud.org/documents/24444216-ri_doc_combined_commissary_lists,April 2023,"October 16, 2023",Gender/Housing Type Lists,Keefe Commissary
+South Carolina,TRUE,https://www.documentcloud.org/documents/24444215-sc_doc_combined_commissary_lists,July 2023,"September 7, 2023",Statewide List,State-run
+South Dakota,TRUE,https://www.documentcloud.org/documents/24444214-sd_doc_combined_commissary_lists,July 2023,"July 31, 2023",Facility/Unit Lists,Summit Food Service
+Tennessee,FALSE,-,-,-,-,-
+Texas,TRUE,https://www.documentcloud.org/documents/24522735-texas_doc_commissary_list,March 2024,"March 28, 2024",Statewide List,State-run
+Utah,TRUE,https://www.documentcloud.org/documents/24444320-utah_doc_commissary_listpdf,October 2022,"November 16, 2023",Statewide List,Union Supply Group
+Vermont,TRUE,https://www.documentcloud.org/documents/24444212-vt_doc_commissary_list,March 2023,"July 27, 2023",Statewide List,Keefe Commissary
+Virginia,TRUE,https://www.documentcloud.org/documents/24444211-va_doc_commissary_list,February 2023,"July 27, 2023",Statewide List,Keefe Commissary
+Washington,TRUE,https://www.documentcloud.org/documents/24444210-washington_doc_combined_commissary_lists,August 2023,"September 19, 2023",Facility/Unit Lists,Washington Correctional Industries
+West Virginia,TRUE,https://www.documentcloud.org/documents/24550293-wv_dcr_commissary_list,September 2023,"November 17, 2023",Statewide List,Union Supply Group
+Wisconsin,TRUE,https://www.documentcloud.org/documents/24444209-wi_doc_commissary_list,July 2023,"August 4, 2023",Statewide List,Union Supply Group
+Wyoming,TRUE,https://www.documentcloud.org/documents/24444934-wyoming_doc_commissary_list,January 2024,"January 17, 2024",Facility/Unit Lists,Keefe Commissary
