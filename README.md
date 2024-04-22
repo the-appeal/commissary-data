@@ -4,9 +4,9 @@ The Appeal has created the first national database of prison commissary lists. U
 
 The data is split across three files:
 
-`data/commissary-lists-20240417.csv`: Links and other metadata for commissary lists from each of the 46 states that provided records.
-`data/commissary-summaries-20240417.csv`: A state-by-state summary of the cost of basic food, hygiene, and other items selected by The Appeal.
-`data/commissary-prices-20240417.csv`: Raw price data used in The Appeal’s analysis of 24 different food, hygiene, and religious products.
+- [`data/commissary-lists-20240417.csv`](https://github.com/the-appeal/commissary-data/edit/main/data/commissary-lists-20240417.csv): Links and other metadata for commissary lists from each of the 46 states that provided records.
+- [`data/commissary-summaries-20240417.csv`](https://github.com/the-appeal/commissary-data/edit/main/data/commissary-summaries-20240417.csv): A state-by-state summary of the cost of basic food, hygiene, and other items selected by The Appeal.
+- [`data/commissary-prices-20240417.csv`](https://github.com/the-appeal/commissary-data/edit/main/data/commissary-prices-20240417.csv): Raw price data used in The Appeal’s analysis of 24 different food, hygiene, and religious products.
 
 We will periodically update the data in this repository as we continue to receive new commissary lists and extract data from the lists we have.
 
